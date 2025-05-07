@@ -31,7 +31,7 @@ iris_analysis/
    cd iris_analysis
    pip install -r requirements.txt
 ---
-## 🚀 Usage
+## **🚀 Usage**
 Option 1: Run the full analysis
 python main.py
 Option 2: Run individual scripts
@@ -44,7 +44,7 @@ Saved plots in the project directory:
 scatterplot.png
 histogram.png(etc.)
 ---
-## 📊 Results
+## **📊 Results**
 Key Findings:
 Setosa has distinctly smaller petals than other species
 
@@ -55,7 +55,7 @@ Strong correlation between petal length and width
 Sample Visualization:
 Sepal vs Petal Length
 ---
-## 🤝 Contributing
+## **🤝 Contributing**
 Fork the project
 
 Create a new branch (git checkout -b feature/your-feature)
@@ -66,7 +66,7 @@ Push to branch (git push origin feature/your-feature)
 
 Open a Pull Request
 ---
-## 📜 License
+## **📜 License**
 MIT License - see LICENSE for details.
 
 ### **4. Generate `requirements.txt`**
