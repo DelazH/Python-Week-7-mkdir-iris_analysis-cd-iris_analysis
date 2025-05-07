@@ -31,7 +31,7 @@ iris_analysis/
    cd iris_analysis
    pip install -r requirements.txt
 ---
-## **🚀 Usage**
+## **🚀Usage**
 Option 1: Run the full analysis
 python main.py
 Option 2: Run individual scripts
